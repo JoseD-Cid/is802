@@ -1,2 +1,6 @@
 My first Repository in GitHub 
-git init, para que el software se integre a la carpeta
+git init, para que el software se integre a la carpeta.dir
+git add, para agregar todos los elementos del proyecto, . para todos.
+git commit -m, para agregar el nombre de las versiones, y mostrara el resumen de los cambios que se han guardado.
+git config --global user.mail, configuración del correo de la cuenta de git hub.
+A new functionality added

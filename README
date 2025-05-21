@@ -4,3 +4,14 @@ git add, para agregar todos los elementos del proyecto, . para todos.
 git commit -m, para agregar el nombre de las versiones, y mostrara el resumen de los cambios que se han guardado.
 git config --global user.mail, configuración del correo de la cuenta de git hub.
 A new functionality added
+
+Que es una Rama??
+Los repositorios tienen una rama principal, rama master o main.
+En las ramas secundarias, no se vera reflejado en la rama main, desarrollador 1, 2, etc.
+MERGE, envia la toda la rama desarrollador, para que se actualize la rama principal.
+
+Cada persona va a tener su rama.
+
+
+
+Change in branch Jose
